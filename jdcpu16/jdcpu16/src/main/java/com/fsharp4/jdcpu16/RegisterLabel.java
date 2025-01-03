@@ -1,3 +1,4 @@
+
 package com.fsharp4.jdcpu16;
 
 public enum RegisterLabel {
